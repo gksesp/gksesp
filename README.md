@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, sou [Gregory lucas] 👋
 
-<!--
-**gksesp/gksesp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Desenvolvedor** | 💻 **Contribuidor Open-Source** | 🛠 **Especialista em Segurança** 
 
-Here are some ideas to get you started:
+🔭 Atualmente trabalhando em projetos de pentest e auditoria de segurança.
+🌱 Explorando novas técnicas de segurança ofensiva e defensiva.
+💬 Pergunte-me sobre: **Pentest**, **Kali Linux**, **Metasploit**, e muito mais!
+📫 Como me encontrar: [clique-aqui](mailto:lojagks747@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projetos Recentes
+- [Projeto de Segurança #1](https://github.com/gksesp/WIFI-DEALTHER-ES8266) – Descrição breve
+- [Projeto de Ferramenta #2](https://github.com/gksesp/MARALDER-ESP32-COM-DISPLAY) – Descrição breve
+
+## 🛠 Ferramentas que eu uso:
+- **Linguagens**: JS, C#, Python
+- **Frameworks**: Metasploit, Burp Suite, kali linux, vscode
+
+
+## 📊 Status de Linguagens Personalizado
+
+![Gráfico de Linguagens]( https://quickchart.io/chart/render/zm-5285b222-c86b-42da-8922-c23d335bc5c6?f=.png)
+
