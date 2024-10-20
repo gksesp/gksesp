@@ -13,7 +13,7 @@
 
 ## 🛠 Ferramentas que eu uso:
 - **Linguagens**: JS, C#, Python
-- **Frameworks**: Metasploit, Burp Suite, kali linux, vscode
+- **Frameworks**: Metasploit, Burp Suite, kali linux.
 
 
 ## 📊 Status de Linguagens Personalizado
