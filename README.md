@@ -8,7 +8,7 @@
 📫 Como me encontrar: [clique-aqui](mailto:lojagks747@gmail.com)
 
 ## 🚀 Projetos Recentes
-- [Projeto de Segurança #1](https://github.com/gksesp/WIFI-DEALTHER-ES8266) – wifi desaltenticador esp8266
+- [Projeto de Segurança #1](https://github.com/gksesp/WIFI-DEALTHER-ES8266) – desautenticador wifi esp8266
 - [Projeto de Ferramenta #2](https://github.com/gksesp/MARALDER-ESP32-COM-DISPLAY) – maralder esp32
 
 ## 🛠 Ferramentas que eu uso:
