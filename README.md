@@ -1,5 +1,6 @@
 # 💫 About Me:
 OLÁ, ME CHAMO GREGORY 👋🏻
+
 👯 estou procurando colaborar em projetos de cibersegurança<br>🤝 procuro ajuda de colaboradores de projetos<br>🌱 aprendendo no momento c++<br>⚡ curiosidade em pentest
 
 
