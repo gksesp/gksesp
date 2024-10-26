@@ -18,10 +18,8 @@ OLÁ, ME CHAMO GREGORY 👋🏻
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=gksesp&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gksesp&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gksesp&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![](https://visitcount.itsvg.in/api?id=gksesp&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
